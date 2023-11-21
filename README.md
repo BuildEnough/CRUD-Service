@@ -11,12 +11,12 @@ Dependencies: Spring Web, JPA, MariaDB Driver, Thymeleaf, Lombok
 <br>
 
 # 2. 개발도구
-개발 언어: JAVA
-프레임 워크: Spring Boot
-통합 개발 환경(IDE): IntelliJ(Community version)
-DB: MariaDB
-View template: Thymeleaf
-DB 접근 기술 JPA
+개발 언어: JAVA  
+프레임 워크: Spring Boot  
+통합 개발 환경(IDE): IntelliJ(Community version)  
+DB: MariaDB  
+View template: Thymeleaf  
+DB 접근 기술 JPA  
 
 # 3. CREATE
 글 작성 페이지  
