@@ -58,3 +58,12 @@ DB 접근 기술 JPA
 
 # 10. 글 삭제 후  
 ![글 삭제 후](images/글_삭제후.png)
+
+<br>
+
+# 11. 오류
+[Spring Boot 프로젝트 생성 후 Application 실행 시 발생한 오류](https://build-enough.tistory.com/341)  
+
+<br>
+
+[데이터베이스에 연결 시 필요한 정보가 없기 때문에 발생하는 문제](https://build-enough.tistory.com/342)
