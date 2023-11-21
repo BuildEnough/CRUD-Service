@@ -18,41 +18,43 @@ DB: MariaDB
 View template: Thymeleaf  
 DB 접근 기술 JPA  
 
+<br>
+
 # 3. CREATE
 글 작성 페이지  
 ![글작성](images/글_작성.png)
 
 <br>
 
-내용 입력  
+# 4. 내용 입력  
 ![글 내용 입력](images/글_작성_내용입력.png)
 
 <br>
 
-입력 내용 확인  
+# 5. 입력 내용 확인  
 ![글 내용 확인](images/글_상세내용.png)
 
 <br>
 
-글 수정 페이지  
+# 6. 글 수정 페이지  
 ![글 수정](images/글_수정.png)
 
 <br>
 
-글 수정 확인  
+# 7. 글 수정 확인  
 ![글 수정 확인](images/글_수정_확인.png)
 
 <br>
 
-글 수정 상세 내용  
+# 8. 글 수정 상세 내용  
 ![글 수정 상세 내용](images/글_수정_상세내용.png)
 
 <br>
 
-글 삭제 전  
+# 9. 글 삭제 전  
 ![글 삭제 전](images/글_삭제전.png)
 
 <br>
 
-글 삭제 후  
+# 10. 글 삭제 후  
 ![글 삭제 후](images/글_삭제후.png)
