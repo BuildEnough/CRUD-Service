@@ -2,7 +2,7 @@
 프로젝트 명: CRUD Service  
 개발 인원: 1명  
 기간: 2023.11.20 ~ 2023.11.20  
-주요 기능: 기본적인 게시판 기능(Create, Read, Update, Delete)  
+주요 기능: 기본적인 CRUD 기능(Create, Read, Update, Delete)  
 기술: Java, SpringBoot, thymeleaf, Gradle  
 DB: MariaDB
 Packaging: Jar
