@@ -4,7 +4,7 @@
 기간: 2023.11.20 ~ 2023.11.20  
 주요 기능: 기본적인 CRUD 기능(Create, Read, Update, Delete)  
 기술: Java, SpringBoot, thymeleaf, Gradle  
-DB: MariaDB
+DB: MariaDB  
 Packaging: Jar  
 Dependencies: Spring Web, JPA, MariaDB Driver, Thymeleaf, Lombok
 
