@@ -5,7 +5,7 @@
 주요 기능: 기본적인 CRUD 기능(Create, Read, Update, Delete)  
 기술: Java, SpringBoot, thymeleaf, Gradle  
 DB: MariaDB
-Packaging: Jar
+Packaging: Jar  
 Dependencies: Spring Web, JPA, MariaDB Driver, Thymeleaf, Lombok
 
 <br>
